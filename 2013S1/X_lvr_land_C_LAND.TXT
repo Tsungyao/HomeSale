@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPPNMLMKKIHFFAX09DC,馬公段,74.00,都市：商
+RPRNMLOKKIHFFAX76CC,馬公段,74.00,都市：商
+RPSNMLOKKIHFFAX86CC,五福段,64.70,非都市：鄉村區 ; 非都市編定：乙種建築用地

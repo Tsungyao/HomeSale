@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPPNMLSLKHIFFAX07CC,文澳段,3192.00,都市：住
+RPQNMLMKLHIFFAX56CC,文光段,1072.45,都市：住
+RPQNMLMKLHIFFAX56CC,文光段,8285.58,都市：住

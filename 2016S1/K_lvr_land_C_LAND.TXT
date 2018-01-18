@@ -1,0 +1,6 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPRNMLPLJIKFFFK09DC,仁愛段,153.13,都市：住
+RPUNMLOLKIKFFBK88CC,巨蛋段,109.33,都市：住
+RPPNMLPLKIKFFBK48CC,苗栗段,664.00,都市：住
+RPOOMLSLKIKFFBK78CC,恭敬段,3.56,都市：住
+RPRNMLQLJHLFFDK98DC,崎工段,2156.00,非都市：工業區 ; 非都市編定：丁種建築用地

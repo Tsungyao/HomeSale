@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPRNMLMJJIKFFDP78CC,八德段,65.83,都市：住
+RPUNMLTKJIKFFDP27CC,蕃薯段,91.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPTNMLMJKIKFFCP98CC,西螺段,105.00,都市：住

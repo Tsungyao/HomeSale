@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPQNMLPKJIHFFBP68DC,坡道平面,0,
+RPXOMLQJKIHFFAP86DC,一樓平面,5000,

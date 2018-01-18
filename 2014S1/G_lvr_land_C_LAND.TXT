@@ -1,0 +1,34 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPTNMLTKJIIFFBG68EC,壯一段,.00,都市：住
+RPWOMLKLJIIFFAG18EC,廣安段,.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPWNMLQLJIIFFAG68EC,利工段,.00,非都市：工業區 ; 非都市編定：丁種建築用地
+RPUNMLRLJIIFFAG58EC,三結段,.00,都市：住
+RPSPMLRLJIIFFAG58EC,義成一段,.00,非都市：特定農業區 ; 非都市編定：農牧用地
+RPTPMLRLJIIFFAG68EC,東安段,.00,都市：住
+RPSPMLQJKIIFFBG48EC,三鬮段大三鬮小段,.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPSPMLQJKIIFFBG48EC,三鬮段大三鬮小段,.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQOMLQJKIIFFBG97CC,珍子滿力段擺厘小段,.00,都市：住
+RPROMLQJKIIFFBG08CC,艮門三段,.00,都市：住
+RPROMLQJKIIFFBG08CC,艮門三段,.00,都市：商
+RPVNMLKKKIIFFAG77CC,協和段,.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPXNMLKKKIIFFAG97CC,北成段,.00,都市：商
+RPWOMLMKKIIFFAG18CC,南昌段,.00,都市：住
+RPRNMLRKKIIFFAG18DC,新甲段,.00,非都市：一般農業區 ; 非都市編定：甲種建築用地
+RPOPMLTKKIIFFBG48EC,拔雅林段拔雅林小段,.00,都市：工
+RPOPMLTKKIIFFBG48EC,拔雅林段拔雅林小段,.00,都市：其他
+RPOPMLTKKIIFFBG48EC,拔雅林段拔雅林小段,.00,都市：工
+RPOPMLNLKIIFFBG97EC,金六結一段,.00,都市：住
+RPQOMLOLKIIFFAG08EC,東安段,.00,都市：住
+RPSOMLOLKIIFFAG28EC,東安段,.00,都市：住
+RPPOMLLMKIIFFBG77DC,金六結段六結小段,.00,都市：住
+RPSQMLMJJHJFFAG97EC,公正段,.00,都市：住
+RPVNMLQJJHJFFBG38DC,金六結段金結小段,.00,都市：住
+RPPOMLSJJHJFFAG08EC,季新段,.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPXNMLTJJHJFFAG68CC,仁愛一段,.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPOOMLTJJHJFFAG87CC,東光段,.00,都市：住
+RPXNMLKKJHJFFAG87CC,羅莊段,.00,都市：住
+RPQOMLQKJHJFFAG08EC,和平段,.00,都市：住
+RPOOMLQKJHJFFBG87DC,金六結段六結小段,95.00,都市：住
+RPPPMLKLJHJFFAG37CC,興東段,.00,都市：商
+RPVNMLSLJHJFFAG78EC,興東段,.00,都市：住
+RPTNMLTLJHJFFAG48CC,東安段,.00,都市：住

@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPQNMLOKJHJFFDK28CC,坡道平面,0,
+RPQOMLOKJHJFFFK58CC,升降機械,0,

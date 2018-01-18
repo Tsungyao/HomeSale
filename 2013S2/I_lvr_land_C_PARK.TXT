@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPPOMLTKKHIFFAI28CC,坡道機械,0,
+RPUNMLSKLHIFFAI68CC,坡道平面,0,21.32

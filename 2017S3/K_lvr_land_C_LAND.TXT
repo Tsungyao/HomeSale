@@ -1,0 +1,5 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPPNMLSLOHMFFDK86CC,西赤崎段,559.74,非都市：山坡地保育區 ; 非都市編定：丁種建築用地
+RPPNMLSLOHMFFDK86CC,西赤崎段,2362.91,非都市：山坡地保育區 ; 非都市編定：丁種建築用地
+RPUNMLNJPHMFFFK07DC,仁愛段,161.00,都市：住
+RPUNMLNJPHMFFFK07DC,仁愛段,6.00,都市：農

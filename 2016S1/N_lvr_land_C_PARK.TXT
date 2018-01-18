@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPPNMLPLJIKFFDN98DC,其他,0,
+RPTNMLLJKIKFFDN88DC,其他,0,

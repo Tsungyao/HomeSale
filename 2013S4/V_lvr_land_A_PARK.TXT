@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPUNMLRLQHIFFAV67CA,坡道平面,0,
+RPTNMLLJIIIFFAV68CA,坡道平面,0,

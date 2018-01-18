@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPQOMLOLKHKFFAP09EC,大潭段社口小段,181.00,都市：住
+RPPNMLRKLHKFFCP56CC,埔北段,53.81,都市：住
+RPTNMLMJMHKFFCP56DC,西螺段,62.00,都市：住

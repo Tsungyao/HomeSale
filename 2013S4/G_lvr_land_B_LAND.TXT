@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPUOMLNKQHIFFBG58CB,公園段,19.26,都市：其他
+RPVOMLNKQHIFFBG68CB,公園段,15.71,都市：其他
+RPWOMLNKQHIFFBG78CB,公園段,15.69,都市：其他

@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPVOMLLLJIJFFAG28EC,坡道平面,0,
+RPPPMLQLKIJFFAG18CC,坡道平面,0,45.55

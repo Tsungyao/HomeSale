@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPWNMLKKOHIFFAN98DC,升降機械,0,
+RPSNMLQKPHIFFAN66DC,升降機械,0,

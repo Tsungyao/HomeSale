@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPOOMLOKKILFFAI18DC,坡道機械,1000,
+RPQOMLRKJHMFFAI48CC,坡道平面,0,30.51

@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPUOMLOKJIMFFBJ88CC,世興段,.00,都市：商
+RPTNMLQKJIMFFBJ98DC,隘興段,.00,都市：住
+RPSNMLPKJIMFFBJ68CC,永興段,.00,都市：商

@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPWOMLTLJHLFFHR18CB,橋北段,21.69,都市：住
+RPXOMLTLJHLFFHR28CB,橋北段,24.42,都市：住
+RPSQMLTLJHLFFHR97CB,橋北段,21.69,都市：住

@@ -1,0 +1,5 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPPOMLRJIIJFFAW86DC,寧湖一劃段,245.88,都市：住
+RPPNMLPKIIJFFAW66DC,賢厝村段,154.00,都市：住
+RPPNMLPKIIJFFAW66DC,賢厝村段,26.00,都市：住
+RPPNMLPKIIJFFAW66DC,賢厝村段,126.00,都市：住

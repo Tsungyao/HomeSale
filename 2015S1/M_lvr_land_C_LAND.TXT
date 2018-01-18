@@ -1,0 +1,13 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPQNMLNKJIJFFBM28CC,建興段,140.12,都市：其他
+RPQNMLNKJIJFFBM28CC,建興段,141.35,都市：其他
+RPPNMLRKJIJFFBM68DC,大堀段,86.78,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLRKJIJFFBM68DC,大堀段,89.49,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPWNMLKKKIJFFBM78DC,草屯段,113.00,都市：住
+RPTNMLPKKIJFFBM98DC,炎峰段,85.95,都市：住
+RPSNMLQKKIJFFBM98DC,草屯段,1043.00,都市：農
+RPVNMLTKKIJFFBM86CC,保安段,12.59,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLTKKIJFFBM86CC,保安段,26.27,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLTKKIJFFBM86CC,保安段,104.56,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLTKKIJFFBM86CC,保安段,.18,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLTLKIJFFBM86DC,新御史段,21.71,都市：住

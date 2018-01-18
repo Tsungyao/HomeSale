@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPQOMLRKJIMFFAI68DC,太平段,9.65,都市：住
+RPOOMLRKJIMFFAI48DC,太平段,9.65,都市：住
+RPPOMLRKJIMFFAI58DC,太平段,9.65,都市：住

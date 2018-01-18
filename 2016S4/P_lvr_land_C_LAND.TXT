@@ -1,0 +1,7 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPVNMLMLQHLFFAP17CC,斗六段,200.00,都市：住
+RPQNMLNLQHLFFAP96EC,大潭段社口小段,52.66,都市：住
+RPRNMLNLQHLFFAP07EC,光復段,1351.00,非都市：工業區 ; 非都市編定：丁種建築用地
+RPRNMLNLQHLFFAP07EC,光復段,98.00,非都市：工業區 ; 非都市編定：丁種建築用地
+RPRNMLLJRHLFFAP56CC,科一段,9160.85,非都市：工業區 ; 非都市編定：丁種建築用地
+RPRNMLLJRHLFFAP56CC,科一段,5502.14,非都市：工業區 ; 非都市編定：丁種建築用地
