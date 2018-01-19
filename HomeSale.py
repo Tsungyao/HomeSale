@@ -1,16 +1,15 @@
-#!/usr/bin/python
-#coding=utf-8
+#!/usr/local/bin/python3
 import re
 import xml.etree.ElementTree as ET
 import os
 
 strArrayCommunity = [
-        ['鴻柏', '鴻向', '', u'新竹縣竹北市自強北路331~360號'],
-        ['富宇', '雲極', 'A', u'新竹縣竹北市勝利八街二段91~120號'],
-        ['富宇', '雲極', 'B', u'新竹縣竹北市十興二街151~180號'],
-        ['富宇', '雲極', 'C', u'新竹縣竹北市勝利八街二段121~150號'],
-        ['仁發', '藏綠', 'A', u'新竹縣竹北市十興五街61~90號'],
-        ['仁發', '藏綠', 'B', u'新竹縣竹北市十興五街91~120號']
+        ['鴻柏', '鴻向', '', '新竹縣竹北市自強北路331~360號'],
+        ['富宇', '雲極', 'A', '新竹縣竹北市勝利八街二段91~120號'],
+        ['富宇', '雲極', 'B', '新竹縣竹北市十興二街151~180號'],
+        ['富宇', '雲極', 'C', '新竹縣竹北市勝利八街二段121~150號'],
+        ['仁發', '藏綠', 'A', '新竹縣竹北市十興五街61~90號'],
+        ['仁發', '藏綠', 'B', '新竹縣竹北市十興五街91~120號']
         ]
 
 SQUARE_METER_PER_PING = 3.305785
@@ -50,47 +49,47 @@ def vWriteHouseData(csvFile, structHouse):
 def uDenterminFloor(strFloor):
     uFloor = 0
     for i in range(len(strFloor)):
-        if ord(strFloor[i]) == ord(u"一"):
+        if ord(strFloor[i]) == ord("一"):
             uFloor += 1
 
-        elif ord(strFloor[i]) == ord(u"二"):
+        elif ord(strFloor[i]) == ord("二"):
             uFloor += 2
 
-        elif ord(strFloor[i]) == ord(u"三"):
+        elif ord(strFloor[i]) == ord("三"):
             uFloor += 3
 
-        elif ord(strFloor[i]) == ord(u"四"):
+        elif ord(strFloor[i]) == ord("四"):
             uFloor += 4
 
-        elif ord(strFloor[i]) == ord(u"五"):
+        elif ord(strFloor[i]) == ord("五"):
             uFloor += 5
 
-        elif ord(strFloor[i]) == ord(u"六"):
+        elif ord(strFloor[i]) == ord("六"):
             uFloor += 6
 
-        elif ord(strFloor[i]) == ord(u"七"):
+        elif ord(strFloor[i]) == ord("七"):
             uFloor += 7
 
-        elif ord(strFloor[i]) == ord(u"八"):
+        elif ord(strFloor[i]) == ord("八"):
             uFloor += 8
 
-        elif ord(strFloor[i]) == ord(u"九"):
+        elif ord(strFloor[i]) == ord("九"):
             uFloor += 9
 
-        elif ord(strFloor[i]) == ord(u"十"):
+        elif ord(strFloor[i]) == ord("十"):
             if i is 0:
                 uFloor = 1
             uFloor *= 10
 
-        elif ord(strFloor[i]) == ord(u"全"):
+        elif ord(strFloor[i]) == ord("全"):
             return 0
 
-        elif ord(strFloor[i]) == ord(u"層"):
+        elif ord(strFloor[i]) == ord("層"):
             return uFloor
 
         else:
-            print strFloor[i]
-            print uFloor
+            print(strFloor[i])
+            print(uFloor)
             uFloor = 0
 ############# uDenterminFloor() end   #############
 
@@ -98,8 +97,8 @@ def uDenterminFloor(strFloor):
 def vHandleDeals(strFilePath, csvFile):
     xmlTree = ET.parse(strFilePath)
     root = xmlTree.getroot()
-    for Deal in root.findall(u"./買賣"):
-        for Community in Deal.findall(u"./土地區段位置或建物區門牌"):
+    for Deal in root.findall("./買賣"):
+        for Community in Deal.findall("./土地區段位置或建物區門牌"):
             for strCommunity in strArrayCommunity:
                 utf8Target = strCommunity[3]
 
@@ -117,18 +116,18 @@ def vHandleDeals(strFilePath, csvFile):
                     continue
 
                 csvFileCommunity = open(WORKSPACE + 'HomeSale' + strCommunity[0] + strCommunity[1] + strCommunity[2] + '.csv', 'a')
-                print Deal.find(u'編號').text
+                print(Deal.find('編號').text)
 
-                TotalArea = Deal.find(u"建物移轉總面積平方公尺")
-                TotalPrice = Deal.find(u"總價元")
-                ParkArea = Deal.find(u"車位移轉總面積平方公尺")
-                ParkPrice = Deal.find(u"車位總價元")
-                Data = Deal.find(u"交易年月日")
-                TotalFloor = Deal.find (u"總樓層數")
-                TargetFloor = Deal.find(u"移轉層次")
+                TotalArea = Deal.find("建物移轉總面積平方公尺")
+                TotalPrice = Deal.find("總價元")
+                ParkArea = Deal.find("車位移轉總面積平方公尺")
+                ParkPrice = Deal.find("車位總價元")
+                Data = Deal.find("交易年月日")
+                TotalFloor = Deal.find ("總樓層數")
+                TargetFloor = Deal.find("移轉層次")
 
-                print "社區: " + strCommunity[1]
-                print "日期: " + Data.text
+                print("社區: " + strCommunity[1])
+                print("日期: " + Data.text)
 
                 #============ Determine the floor info ===========#
                 if TotalFloor.text:
@@ -142,7 +141,7 @@ def vHandleDeals(strFilePath, csvFile):
                     uTargetFloor = 0
 
                 if uTotalFloor != 0:
-                    uFloorPercent = (uTargetFloor * 4) / uTotalFloor
+                    uFloorPercent = (uTargetFloor * 4) // uTotalFloor
                 else:
                     uFloorPercent = 0xFFFF
 
@@ -225,7 +224,7 @@ for dirPath, dirNames, fileNames in os.walk(WORKSPACE):
         if not re.match('.*[xX][mM][lL]', f) or not re.match('[OJ].*', f):
             continue
         #---------------------------------------#
-        print os.path.join(dirPath, f)
+        print(os.path.join(dirPath, f))
 
         vHandleDeals(os.path.join(dirPath, f), csvFile)
 
