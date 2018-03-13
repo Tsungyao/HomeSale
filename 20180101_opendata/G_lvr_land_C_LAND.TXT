@@ -1,0 +1,5 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPVNMLTJJHNFFBG98CC,黎明段,.00,都市：住
+RPVOMLPJJHNFFBG68CC,進士段,93.57,都市：住
+RPOOMLMJJHNFFBG67CC,金六結段金結小段,120.00,都市：住
+RPVNMLTJJHNFFAG88CC,北成段,9.72,都市：住

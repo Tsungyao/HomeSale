@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPSOMLTJJHNFFAP96CC,斗六段,.00,都市：商
+RPWOMLTJJHNFFAP37CC,大潭段社口小段,.00,都市：住
+RPUOMLTJJHNFFAP17CC,斗六段,.00,都市：商

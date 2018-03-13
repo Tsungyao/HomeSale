@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPPNMLOJJHNFFAZ96DA,東引西段,8.94,都市：其他
+RPPNMLOJJHNFFAZ96DA,東引西段,174.03,都市：其他
+RPPNMLMLJHNFFAZ96DA,東引西段,30.73,都市：其他

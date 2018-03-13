@@ -1,0 +1,332 @@
+½s¸¹,¤g¦a°Ï¬q¦ì¸m,¤g¦a²¾Âà­±¿n¥­¤è¤½¤Ø,¨Ï¥Î¤À°Ï©Î½s©w
+RPOOMLOJJHNFFCM38CA,¿ßýü¬q,2937.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPOMLOJJHNFFCM48CA,¿ßýü¬q,1427.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPROMLOJJHNFFCM68CA,¿ßýü¬q,2566.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPTOMLOJJHNFFCM88CA,¿ßýü¬q,2567.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQOMLOJJHNFFCM58CA,¿ßýü¬q,2712.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVOMLOJJHNFFCM09CA,¿ßýü¬q,2712.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPWOMLOJJHNFFCM56CA,¿ßýü¬q,2712.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPUOMLOJJHNFFCM98CA,¿ßýü¬q,2567.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPXOMLOJJHNFFCM66CA,¿ßýü¬q,2892.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPSOMLOJJHNFFCM78CA,¿ßýü¬q,2566.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPOPMLOJJHNFFCM48CA,¿ßýü¬q,2891.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPPMLOJJHNFFCM58CA,¿ßýü¬q,2891.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPTPMLOJJHNFFCM98CA,¦wÙõ¬q,686.22,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,3.14,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,4.48,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,38.25,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,.27,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,.52,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,.20,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,1.96,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,1.96,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,.34,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,.30,³£¥«¡G¦í
+RPPNMLPKJHNFFAM38CA,¥]§À¬q,.16,³£¥«¡G¦í
+RPVNMLTJJHNFFCM86CA,ºÖÀt¬q,2550.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVNMLTJJHNFFCM86CA,ºÖÀt¬q,1636.52,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVNMLTJJHNFFCM86CA,ºÖÀt¬q,84.67,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPVNMLTJJHNFFCM86CA,ºÖÀt¬q,2750.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPOMLPKJHNFFCM68CA,¤¯·R¬q,12.87,³£¥«¡G¨ä¥L
+RPPOMLPKJHNFFCM68CA,¤¯·R¬q,17.61,³£¥«¡G¨ä¥L
+RPTNMLKKJHNFFCM48CA,ªF¼í¬q,97.41,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPQNMLTJKHNFFCM09CA,¥®·à¬q,11250.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPVNMLPKJHNFFCM56CA,®ç¦Ì§|¬q,3413.33,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVNMLPKJHNFFCM56CA,®ç¦Ì§|¬q,3413.33,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVNMLPKJHNFFCM56CA,®ç¦Ì§|¬q,3413.33,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLMLJHNFFDM48CA,¶ê¤s¬q,5541.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPRNMLSJJHNFFDM09CA,«á®H¤l¬q·Ë¬w¤l¤p¬q,17.78,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤ô§Q¥Î¦a
+RPRNMLSJJHNFFDM09CA,«á®H¤l¬q¤ô¨®¤p¬q,264.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¤ô§Q¥Î¦a
+RPRNMLSJJHNFFDM09CA,«á®H¤l¬q¤ô¨®¤p¬q,57.67,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤ô§Q¥Î¦a
+RPRNMLSJJHNFFDM09CA,«á®H¤l¬q¤ô¨®¤p¬q,694.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLSJJHNFFDM09CA,«á®H¤l¬q¤ô¨®¤p¬q,12.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLSJJHNFFDM09CA,«á®H¤l¬q¤ô¨®¤p¬q,3007.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLSJJHNFFDM09CA,¤¤¦{¬q,120.45,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPRNMLSJJHNFFDM09CA,¤¤¦{¬q,41.85,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPRNMLSJJHNFFDM09CA,¤¤¦{¬q,7.15,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥æ³q¥Î¦a
+RPRNMLSJJHNFFDM09CA,¤¤¦{¬q,9.16,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤ô§Q¥Î¦a
+RPPNMLSJJHNFFEM98CA,¤ô¨½¬q,14.00,³£¥«¡G¨ä¥L
+RPPNMLSJJHNFFEM98CA,¤ô¨½¬q,9.00,³£¥«¡G¨ä¥L
+RPSNMLMKJHNFFCM58CA,ªê¥J¦Õ¬q,151.24,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPQNMLPJJHNFFDM68CA,¼s¿³¬q,11.18,³£¥«¡G¦í
+RPQNMLPJJHNFFDM68CA,¼s¿³¬q,65.10,³£¥«¡G¦í
+RPQNMLPJJHNFFDM68CA,¼s¿³¬q,.68,³£¥«¡G¦í
+RPSNMLPJJHNFFEM98CA,Àô¤s¬q,354.17,³£¥«¡G¦í
+RPSNMLPJJHNFFEM98CA,Àô¤s¬q,243.14,³£¥«¡G¹A
+RPSNMLPJJHNFFEM98CA,Àô¤s¬q,181.23,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPSNMLPJJHNFFEM98CA,Àô¤s¬q,8.44,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLNJJHNFFEM48CA,¤¤·¾¬q,733.05,³£¥«¡G¹A
+RPPNMLNJJHNFFEM48CA,¤¤·¾¬q,680.24,³£¥«¡G¹A
+RPQNMLNLJHNFFDM68CA,·s©M¬q,352.13,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLPJJHNFFEM68CA,¥_®H¬q,142.44,³£¥«¡G¦í
+RPPNMLPJJHNFFCM58DA,±öªL¬q,17.70,³£¥«¡G¦í
+RPQNMLPLJHNFFCM78CA,©¾­s¬q,19.66,³£¥«¡G¦í
+RPTNMLRKJHNFFEM86DA,¥_®H¬q,126.12,³£¥«¡G¦í
+RPTNMLRKJHNFFEM86DA,¥_®H¬q,126.22,³£¥«¡G¦í
+RPUNMLOJJHNFFCM98DA,·RÄõ¬q,308.40,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPVNMLRKJHNFFEM07DA,¥_®H¬q,138.90,³£¥«¡G¦í
+RPRNMLMLJHNFFDM68CA,·s©M¬q,93.27,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLMLJHNFFDM68CA,·s©M¬q,239.62,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPUNMLRKJHNFFEM96DA,¥_®H¬q,126.41,³£¥«¡G¦í
+RPWNMLRKJHNFFEM17DA,¥_®H¬q,125.89,³£¥«¡G¦í
+RPTNMLSJKHNFFCM66CA,ÀRÆ[¬q,12310.00,«D³£¥«¡G´ËªL°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPTNMLTJJHNFFDM76CA,¤j§|¬q¤j§|¤p¬q,144.00,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPTNMLTJJHNFFDM76CA,¤j§|¬q¤j§|¤p¬q,144.00,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPTNMLTJJHNFFDM76CA,¤j§|¬q¤j§|¤p¬q,144.00,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLNJJHNFFDM48CA,ÃU³½§À¬q,4910.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPTNMLQLJHNFFDM66CA,®HÀY¬q,21.55,³£¥«¡G¦í
+RPTNMLQLJHNFFDM66CA,®HÀY¬q,5.32,³£¥«¡G¦í
+RPTNMLQLJHNFFDM66CA,®HÀY¬q,88.00,³£¥«¡G¦í
+RPTNMLQLJHNFFDM66CA,®HÀY¬q,3.86,³£¥«¡G¦í
+RPPNMLOJJHNFFDM48CA,¶³ªL¬q,756.00,³£¥«¡G¦í
+RPQNMLMKJHNFFDM48CA,¦Ë³ò¤l¬qúÀúË¤p¬q,175.00,³£¥«¡G¦í
+RPUNMLSJKHNFFCM76CA,ÀRÆ[¬q,5330.00,«D³£¥«¡G´ËªL°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQOMLPKJHNFFCM78CA,ªê¥J¦Õ¬q,132.43,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPQNMLOJJHNFFDM58CA,¦w©w¬q,164.15,³£¥«¡G¦í
+RPSNMLOJJHNFFDM78CA,µÐ´£¬q,273.00,³£¥«¡G¦í
+RPWNMLPKJHNFFCM66CA,«n¿³¬q,76.63,³£¥«¡G¦í
+SPUNMLTJJHNFFCM86CA,¥Ûªù¬q,14.23,³£¥«¡G¦í
+RPWNMLPJJHNFFCM56CA,²pÀY¦y¬q,1100.04,³£¥«¡G¹A
+RPRPMLOJJHNFFCM78CA,¥_¤s§|¬q,2619.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPOMLSJJHNFFCM88CA,¤¤¿³¬q,1808.32,³£¥«¡G¨ä¥L
+RPROMLKKJHNFFAM18CA,¥ú¤j¬q,17.40,³£¥«¡G¦í
+RPROMLKKJHNFFAM18CA,¥ú¤j¬q,88.55,³£¥«¡G¦í
+RPUNMLTJJHNFFCM76CA,¥Ûªù¬q,110.62,³£¥«¡G¦í
+RPXNMLPJJHNFFCM66CA,¤ôªø¬y¬q,179.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLOJJHNFFAM38CA,¥]§À¬q,54.40,³£¥«¡G¹A
+RPRNMLNJJHNFFAM28CA,Às²´ªL¬q,14986.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPRNMLNJJHNFFAM28CA,Às²´ªL¬q,6499.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPQNMLPJJHNFFAM38CA,·s¤}¾c¬q,3592.00,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPOMLKKJHNFFAM97CA,«n§ë¬q,59.00,³£¥«¡G¦í
+RPUNMLOJJHNFFAM68CA,¤À¤ô¼d¬q,38.99,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPUNMLOJJHNFFAM68CA,¤À¤ô¼d¬q,2211.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPRNMLMLJHNFFBM48CA,±N­x¬q,3011.20,³£¥«¡G¹A
+RPPNMLLMJHNFFAM18CA,¥úºa¬q,88.23,³£¥«¡G¦í
+RPPNMLLMJHNFFAM18CA,¥úºa¬q,4.81,³£¥«¡G¦í
+RPUNMLOJJHNFFBM78CA,¥_§ë¬q,3704.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPWNMLOJJHNFFCM09CA,¥_¤s§|¬q,1278.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPWNMLOJJHNFFCM09CA,¥_¤s§|¬q,2500.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPWNMLOJJHNFFCM09CA,¥_¤s§|¬q,2541.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPWNMLOJJHNFFCM09CA,¥_¤s§|¬q,368.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPWNMLOJJHNFFCM09CA,¥_¤s§|¬q,748.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLOLJHNFFBM48CA,¥_§ë®H¬q,1080.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVNMLOJJHNFFCM98CA,ºa¥ú¬q,478.52,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPTNMLQLJHNFFAM98CA,¤j±^¬q,14.85,«D³£¥«¡G¤u·~°Ï ; «D³£¥«½s©w¡G¤BºØ«Ø¿v¥Î¦a
+RPVNMLRKJHNFFAM56CA,«n§ë¬q,14.43,³£¥«¡G¦í
+RPXNMLOJJHNFFCM56CA,·RÄõ¬q,101.19,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPXNMLOJJHNFFCM56CA,·RÄõ¬q,1.38,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPPNMLRLJHNFFAM68CA,¤À¤ô¼d¬q,3631.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPTNMLTLJHNFFAM66CA,¤À¤ô¼d¬q,663.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPTNMLTLJHNFFAM66CA,¤À¤ô¼d¬q,337.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPQNMLSJJHNFFBM78CA,¤¤¿³¬q,94.00,³£¥«¡G¦í
+RPRNMLQKJHNFFBM78CA,²»©M¬q,84.02,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPXNMLMJKHNFFAM88CA,¨®ÀY¬q,2536.21,³£¥«¡G¹A
+RPXNMLMJKHNFFAM88CA,¨®ÀY¬q,160.86,³£¥«¡G¹A
+RPPNMLTKJHNFFAM78CA,Às²´ªL¬q,193.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¯S©w¥Øªº¨Æ·~¥Î¦a
+RPRNMLSJJHNFFBM88CA,¯ó¤Ù¬q,33.00,³£¥«¡G¦í
+RPXQMLOLJHNFFBM96CA,¤¤­ì¬q,124.78,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPXQMLOLJHNFFBM96CA,¤¤­ì¬q,22.93,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPSNMLNLJHNFFAM58CA,¥ú¿³¬q,95.63,³£¥«¡G¦í
+RPOOMLPLJHNFFAM48CA,¤¤¼d¬q,536.50,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPOOMLPLJHNFFAM48CA,¤¤¼d¬q,104.69,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G°ê¤g«O¦w¥Î¦a
+RPOOMLPLJHNFFAM48CA,¤¤¼d¬q,24.75,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G°ê¤g«O¦w¥Î¦a
+RPOOMLPLJHNFFAM48CA,¤¤¼d¬q,134.56,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G°ê¤g«O¦w¥Î¦a
+RPOOMLPLJHNFFAM48CA,¤¤¼d¬q,129.75,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G°ê¤g«O¦w¥Î¦a
+RPOOMLPLJHNFFAM48CA,ªø¦w¬q,70.87,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLKKJHNFFAM08CA,¦W¤s¬q,6.06,³£¥«¡G¨ä¥L
+RPRNMLKKJHNFFAM08CA,¦W¤s¬q,1884.67,³£¥«¡G¨ä¥L
+RPVNMLSJJHNFFAM56CA,¤T¶ô­í¬q,46.00,«D³£¥«¡G ; «D³£¥«½s©w¡G
+RPRNMLPJJHNFFAM48CA,·s«n¬q,110.59,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUPMLOJJHNFFCM09CA,·s¿³¬q,1323.06,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLPKJHNFFCM78CA,¤ô§À¬q,155.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLPKJHNFFCM78CA,¤ô§À¬q,684.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLPKJHNFFCM78CA,¤ô§À¬q,1256.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLPKJHNFFCM78CA,¤ô§À¬q,214.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPRNMLPKJHNFFCM78CA,¤ô§À¬q,133.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPPNMLSJJHNFFDM88CA,¤¤¦{¬q,270.97,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPSNMLSJJHNFFCM09CA,¤K¼w¬q,37.98,³£¥«¡G¦í
+RPTNMLOLJHNFFAM78CA,¤j±^¬q,115.00,«D³£¥«¡G¤u·~°Ï ; «D³£¥«½s©w¡G¤BºØ«Ø¿v¥Î¦a
+RPTOMLSJJHNFFCM66CA,¥_´ä·Ë¬q,212.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPTOMLSJJHNFFCM66CA,¥_´ä·Ë¬q,213.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPTOMLSJJHNFFCM66CA,¥_´ä·Ë¬q,213.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPTOMLSJJHNFFCM66CA,¥_´ä·Ë¬q,212.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPPOMLNLJHNFFCM58CA,¥Á¥Í¬q,199.44,³£¥«¡G¹A
+RPPOMLNLJHNFFCM58CA,¥Á¥Í¬q,88.52,³£¥«¡G¹A
+RPRNMLPJJHNFFEM88CA,¼s©ú¬q,1728.04,³£¥«¡G¦í
+RPRNMLPJJHNFFEM88CA,¼s©ú¬q,1349.64,³£¥«¡G¦í
+RPQNMLTJJHNFFDM09CA,¤¤¦{¬q,.63,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¤ô§Q¥Î¦a
+RPQNMLTJJHNFFDM09CA,¤¤¦{¬q,2.14,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLTJJHNFFEM09CA,Àô¤s¬q,241.79,³£¥«¡G¨ä¥L
+RPPNMLTJJHNFFEM09CA,Àô¤s¬q,108.97,³£¥«¡G¨ä¥L
+RPPNMLTJJHNFFEM09CA,Àô¤s¬q,58.75,³£¥«¡G¦í
+RPRNMLSJJHNFFCM09DA,¬a¤lªL¬q,6124.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLKKJHNFFEM38CA,·s«°¬q,143.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPSNMLKKJHNFFCM48DA,±öªL¬q,151.12,³£¥«¡G¦í
+RPRNMLKKJHNFFCM38DA,±öªL¬q,136.97,³£¥«¡G¦í
+RPRNMLKKJHNFFCM38DA,±öªL¬q,151.12,³£¥«¡G¦í
+RPQNMLSJJHNFFCM88CA,©¾­s¬q,76.78,³£¥«¡G¦í
+RPPNMLTJJHNFFAM78DA,¥ýÅX¬q,24189.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLKKJHNFFEM28CA,°p§|¬q,6510.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPUOMLSJJHNFFCM86DA,ªê¥J¦Õ¬q,225.00,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPSNMLTJJHNFFDM66CA,¥­¥¿¬q,4690.41,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLMKJHNFFDM58CA,¤j§|¬q¤j§|¤p¬q,2232.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLMKJHNFFDM58CA,¤j§|¬q¤j§|¤p¬q,1719.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLMKJHNFFDM58CA,¤j§|¬q¤j§|¤p¬q,55.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQOMLSKJHNFFCM09CA,·Ë«n¬q,2930.59,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPQOMLSKJHNFFCM09CA,·Ë«n¬q,1423.50,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPQOMLSKJHNFFCM09CA,·Ë«n¬q,4356.18,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¼È¥¼½s©w
+RPPNMLMJKHNFFCM28CA,Ä_´ò¸]¬q,152.50,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPPNMLMJKHNFFCM28CA,Ä_´ò¸]¬q,152.50,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPPNMLMJKHNFFCM28CA,Ä_´ò¸]¬q,152.50,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPPNMLMJKHNFFCM28CA,Ä_´ò¸]¬q,152.50,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPTNMLSJJHNFFCM56CA,ÃU³½¼æ¬q,1583.92,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPWNMLNLJHNFFCM66DA,®H¨½¬q«H¸q¤p¬q,78.00,³£¥«¡G¦í
+RPUOMLSKJHNFFCM86CA,·RÄõ¬q,46.44,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUOMLSKJHNFFCM86CA,·RÄõ¬q,19.52,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUOMLSKJHNFFCM86CA,·RÄõ¬q,19.52,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUOMLSKJHNFFCM86CA,·RÄõ¬q,46.44,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPOOMLSJJHNFFCM78CA,¤ô§À¬q,8937.50,«D³£¥«¡G´ËªL°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPOOMLSJJHNFFCM78CA,¤ô§À¬q,5074.00,«D³£¥«¡G´ËªL°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPOOMLSJJHNFFCM78CA,¤ô§À¬q,4253.00,«D³£¥«¡G´ËªL°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPQOMLKKJHNFFAM08CA,¥ÃªÚ¬q,100.00,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPQOMLKKJHNFFAM08CA,¥ÃªÚ¬q,117.18,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPQOMLKKJHNFFAM08CA,¥ÃªÚ¬q,100.00,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPQOMLKKJHNFFAM08CA,¥ÃªÚ¬q,105.99,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLLKJHNFFCM68CA,¥_´ä·Ë¬q,742.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPUNMLKKJHNFFCM58CA,¯]®æ¬q,95.16,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPUNMLSJJHNFFCM66CA,ªø¼d¬q,2592.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPUNMLSJJHNFFCM66CA,ªø¼d¬q,531.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPUNMLSJJHNFFCM66CA,ªø¼d¬q,522.80,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVNMLSJJHNFFCM76CA,¤¯·R¬q,83.74,³£¥«¡G¦í
+RPVNMLSJJHNFFCM76CA,¤¯·R¬q,5.74,³£¥«¡G¨ä¥L
+RPXNMLRKJHNFFAM76CA,ºÖ¼w¬q,4436.35,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPXNMLRKJHNFFAM76CA,ºÖ¼w¬q,438.16,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQOMLTKJHNFFAM98CA,ªF¤¯¬q,156.35,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPROMLPLJHNFFBM88CA,¦P¼w¬q,25.36,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPROMLPLJHNFFBM88CA,¦P¼w¬q,90.67,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPROMLPLJHNFFBM88CA,¦P¼w¬q,1.48,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPROMLPLJHNFFBM88CA,¦P¼w¬q,.35,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¥æ³q¥Î¦a
+RPROMLPLJHNFFBM88CA,¦P¼w¬q,1.30,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPSNMLKKJHNFFBM28CA,­XÓy¤s¬q,1693.30,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPQNMLQLJHNFFAM68CA,¥b¤s¬q,20.85,³£¥«¡G¦í
+RPQNMLOJKHNFFBM48CA,¯ó¤Ù¬q,95.00,³£¥«¡G¦í
+RPXNMLPLJHNFFAM66CA,ºÖ§U¬q,76.66,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPRNMLTLJHNFFBM56CA,Âù¥V¬qÂù¥V¤p¬q,2737.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPSNMLMJKHNFFAM38CA,¤û¹BÔ³¬q,264.00,³£¥«¡G¨ä¥L
+RPSNMLMJKHNFFAM38CA,¤û¹BÔ³¬q,132.00,³£¥«¡G¨ä¥L
+RPSNMLMJKHNFFAM38CA,¤û¹BÔ³¬q,134.00,³£¥«¡G¨ä¥L
+RPQNMLTJJHNFFBM88CA,´_¿³¬q,183.71,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPQNMLTJJHNFFBM88CA,´_¿³¬q,9.10,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¥æ³q¥Î¦a
+RPTNMLMLJHNFFAM58CA,¦Ë³ò¬q,350.96,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPPNMLKKJHNFFAM87CA,¥Ã¼Ö¬q,3131.00,«D³£¥«¡G´ËªL°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPSNMLMJKHNFFBM48CA,¤ô¨XÀY¬q,157.88,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPPNMLOKJHNFFAM28CA,Àç«n¬q,61.88,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPPNMLOKJHNFFAM28CA,Àç«n¬q,22.67,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLNLJHNFFAM78CA,·s¨ª¤ô¬q,20.56,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLNLJHNFFAM78CA,·s¨ª¤ô¬q,20.56,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLNLJHNFFAM78CA,·s¨ª¤ô¬q,37.51,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLNLJHNFFAM78CA,·s¨ª¤ô¬q,37.51,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLNLJHNFFAM78CA,·s¨ª¤ô¬q,76.51,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLNLJHNFFAM78CA,·s¨ª¤ô¬q,76.51,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLNLJHNFFAM78CA,·s¨ª¤ô¬q,76.64,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLNLJHNFFAM78CA,·s¨ª¤ô¬q,76.64,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPUNMLPLJHNFFCM56CA,¥­ÀR¬q,4125.00,«D³£¥«¡G´ËªL°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPSNMLLKJHNFFCM48CA,®ç¦Ì§|¬q,5060.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPTNMLTJJHNFFCM66CA,«n¿³¬q,1.19,³£¥«¡G¦í
+RPUNMLLKJHNFFAM48CA,¥úµØ¬q,140.10,³£¥«¡G¦í
+RPVNMLTKJHNFFCM96CA,Äª¤s¬q,11225.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQOMLQKJHNFFAM68CA,¦P·½¬q,100.87,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPSNMLKKJHNFFDM48CA,·ÓÃè¬q,2972.43,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¤þºØ«Ø¿v¥Î¦a
+RPQNMLTJJHNFFAM88DA,¦W¤s¬q,21.72,³£¥«¡G¹A
+RPVOMLSJJHNFFCM96DA,¥v´ä¬q,3141.04,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVOMLSJJHNFFCM96DA,¥v´ä¬q,119.02,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVOMLSJJHNFFCM96DA,¥v´ä¬q,921.02,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVOMLSJJHNFFCM96DA,¥v´ä¬q,390.03,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLKKJHNFFEM48CA,¤K±i¬q,141.22,³£¥«¡G¦í
+RPRNMLKKJHNFFEM48CA,¤K±i¬q,3.86,³£¥«¡G¦í
+RPPNMLQLJHNFFCM78CA,©¾§µ¬q,24.94,³£¥«¡G¦í
+RPPNMLQLJHNFFCM78CA,©¾§µ¬q,24.94,³£¥«¡G¦í
+RPPNMLQLJHNFFCM78CA,©¾§µ¬q,24.94,³£¥«¡G¦í
+RPPNMLNLJHNFFEM68CA,¤¤·¾¬q,70.26,³£¥«¡G°Ó
+RPUNMLMKJHNFFDM98DA,®ÛªL¬q,145.44,³£¥«¡G¦í
+RPRNMLSKJHNFFAM98DA,Às²´ªL¬q,1404.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPTNMLKKJHNFFDM58CA,¤p¥b¤Ñ¬q,6157.88,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPSNMLPKJHNFFDM98CA,¦w©w¬q,3422.69,³£¥«¡G¹A
+RPSNMLPKJHNFFDM98CA,¦w©w¬q,96.57,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLOKKHNFFEM98DA,«°¤¤¬q,21.75,³£¥«¡G¦í
+RPQNMLOKKHNFFEM98DA,«°¤¤¬q,.25,³£¥«¡G¦í
+RPPNMLMKJHNFFDM38CA,µµ«n¬q,2170.40,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLNLJHNFFDM58CA,¤j§|¬q¤j§|¤p¬q,64.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLNKJHNFFCM48CA,®H·½¬q,4140.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLMLJHNFFDM58CA,·sªì¶m¬q,354.01,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLMLJHNFFDM58CA,·sªì¶m¬q,1021.05,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLMLJHNFFDM58CA,·sªì¶m¬q,1076.51,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLMLJHNFFDM58CA,·sªì¶m¬q,1453.61,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLMLJHNFFDM58CA,·sªì¶m¬q,3435.87,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLMLJHNFFDM58CA,·sªì¶m¬q,1421.36,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLMLJHNFFDM58CA,·sªì¶m¬q,2540.81,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLMKJHNFFAM28CA,¤û¹BÔ³¬q,40.00,³£¥«¡G¹A
+RPOOMLTKJHNFFAM78CA,¼Ì´¶¼d¬q,277.13,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPTNMLTJJHNFFAM09CA,«Ø¿³¬q,.43,³£¥«¡G¦í
+RPTNMLTJJHNFFAM09CA,«Ø¿³¬q,22.34,³£¥«¡G¦í
+RPTNMLTJJHNFFAM09CA,«Ø¿³¬q,84.61,³£¥«¡G¦í
+RPVNMLLKJHNFFBM68CA,·s¥Ã¦w¬q,33.24,³£¥«¡G¹A
+RPVNMLLKJHNFFBM68CA,·s¥Ã¦w¬q,1389.69,³£¥«¡G¹A
+RPVNMLLKJHNFFBM68CA,·s¥Ã¦w¬q,33.08,³£¥«¡G¹A
+RPPNMLLKJHNFFBM08CA,·s´I¥\¬q,3.23,³£¥«¡G¦í
+RPPNMLLKJHNFFBM08CA,·s´I¥\¬q,10.57,³£¥«¡G¦í
+RPPNMLLKJHNFFBM08CA,·s´I¥\¬q,1.46,³£¥«¡G¦í
+RPPNMLLKJHNFFBM08CA,·s´I¥\¬q,.08,³£¥«¡G¦í
+RPPNMLLKJHNFFBM08CA,·s´I¥\¬q,122.85,³£¥«¡G¦í
+RPPNMLLKJHNFFBM08CA,·s´I¥\¬q,1.59,³£¥«¡G¦í
+RPSNMLKKJHNFFAM18CA,ºÖ·Ë¬q,128.46,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPRNMLMKJHNFFBM38CA,·s¥Ã¦w¬q,64.81,³£¥«¡G¹A
+RPRNMLTKJHNFFBM09CA,±N­x¬q,133.38,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPRNMLTKJHNFFBM09CA,±N­x¬q,139.97,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPRNMLTKJHNFFBM09CA,±N­x¬q,8.00,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPWNMLPJKHNFFAM09CA,¤p±T¬q,1761.03,³£¥«¡G¦í
+RPPNMLMKJHNFFBM18CA,¥_§ë¬q,34.96,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¯S©w¥Øªº¨Æ·~¥Î¦a
+RPVNMLLKJHNFFAM58CA,¥Ã·s¬q,54.26,³£¥«¡G¨ä¥L
+RPQNMLMKJHNFFBM28CA,¥_§ë®H¬q,55.78,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥æ³q¥Î¦a
+RPQNMLMKJHNFFBM28CA,¥_§ë®H¬q,83.67,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥æ³q¥Î¦a
+RPOOMLRJKHNFFAM58CA,¤G­«·Ë¬q,1574.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLLKJHNFFAM08CA,·s«n¬q,1743.63,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¤BºØ«Ø¿v¥Î¦a
+RPRNMLMJKHNFFBM38CA,¤é·s¬q,1371.00,³£¥«¡G¹A
+RPPNMLNJKHNFFBM28CA,·s´I¼d¬q,30.62,³£¥«¡G¦í
+RPTNMLLMJHNFFBM68CA,·s¥ú¬q,151.06,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPTNMLRJKHNFFBM09CA,·s«n©W¬q,1116.15,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQOMLRKJHNFFAM78CA,·s¤}¾c¬q,676.74,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPUNMLRJKHNFFBM56CA,·s«n©W¬q,1056.66,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLRKJHNFFAM68CA,«n¤jÉÜ¬q,37.04,³£¥«¡G¨ä¥L
+RPQNMLRKJHNFFAM68CA,«n¤jÉÜ¬q,20.66,³£¥«¡G¦í
+RPQNMLRKJHNFFAM68CA,«n¤jÉÜ¬q,175.71,³£¥«¡G¦í
+RPQNMLNJKHNFFBM38CA,·s´I¼d¬q,29.74,³£¥«¡G¦í
+SPPNMLNJKHNFFBM38CA,·s´I¼d¬q,29.74,³£¥«¡G¦í
+RPVNMLNLJHNFFAM88CA,¤G­«·Ë¬q,1699.20,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPVNMLOLJHNFFAM98CA,¤T±[¬q,2558.95,«D³£¥«¡G¤@¯ë¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPWNMLKKJHNFFAM58CA,¦W¤s¬q,6.06,³£¥«¡G¨ä¥L
+RPWNMLKKJHNFFAM58CA,¦W¤s¬q,1884.67,³£¥«¡G¨ä¥L
+RPWNMLRKJHNFFAM66CA,¥úµØ¬q,83.49,³£¥«¡G¦í
+RPTNMLMKJHNFFCM68CA,©W¥J³»¬q,3144.27,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPUNMLMLJHNFFCM88CA,ªê¥J¦Õ¬q,117.31,«D³£¥«¡G¶m§ø°Ï ; «D³£¥«½s©w¡G¤AºØ«Ø¿v¥Î¦a
+RPPNMLQKJHNFFCM68CA,¨|­^¬q,296.06,³£¥«¡G¤u
+RPRNMLLKJHNFFCM38CA,µo²»¬q,1580.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLLKJHNFFCM38CA,µo²»¬q,3990.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPSNMLPKJHNFFCM98DA,¤û§À¬q,1019.72,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPRNMLLKJHNFFAM18CA,·sú©¬q,197.90,³£¥«¡G¦í
+RPSNMLQLJHNFFAM98DA,«á¼d¬q,1451.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPQNMLTKJHNFFCM09CA,©¾¤ß¬q,109.06,³£¥«¡G¨ä¥L
+RPUNMLKKJHNFFAM48DA,«n§ë¬q,109.00,³£¥«¡G¦í
+RPUNMLKKJHNFFAM48DA,«n§ë¬q,7.55,³£¥«¡G¦í
+RPPOMLQKJHNFFAM58CA,­XÐ¤¸}¬q,59.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPPOMLQKJHNFFAM58CA,­XÐ¤¸}¬q,59.00,«D³£¥«¡G¯S©w¹A·~°Ï ; «D³£¥«½s©w¡G¥ÒºØ«Ø¿v¥Î¦a
+RPUNMLQKJHNFFAM98CA,¦¨¥\¬q,133.02,³£¥«¡G¦í
+RPRNMLNLJHNFFCM78DA,®H¨½¬q±ö¤l¸}¤p¬q,14.67,³£¥«¡G¦í
+RPPNMLKMJHNFFDM38CA,ªì¶m¬q,2393.25,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPPNMLKMJHNFFDM38CA,ªì¶m¬q,777.75,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPPNMLKMJHNFFDM38CA,ªì¶m¬q,1383.50,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLKMJHNFFDM38CA,ªì¶m¬q,1091.75,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPPNMLKMJHNFFDM38CA,ªì¶m¬q,633.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a
+RPPNMLKMJHNFFDM38CA,ªì¶m¬q,341.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLKMJHNFFDM38CA,ªì¶m¬q,820.25,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡G¹Aªª¥Î¦a
+RPPNMLKMJHNFFDM38CA,ªì¶m¬q,3009.00,«D³£¥«¡G¤s©Y¦a«O¨|°Ï ; «D³£¥«½s©w¡GªL·~¥Î¦a

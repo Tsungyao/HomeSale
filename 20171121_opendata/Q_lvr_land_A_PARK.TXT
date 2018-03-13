@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPPOMLOLJIMFFDQ56CA,坡道平面,0,29.86
+RPXNMLNKKIMFFCQ07CA,坡道機械,0,

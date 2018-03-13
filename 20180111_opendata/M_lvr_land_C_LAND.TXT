@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPQNMLLKJHNFFBM38CC,草鞋墩段,55.87,都市：住
+RPVNMLTKJHNFFAM96CC,二重溪段,34.15,非都市：山坡地保育區 ; 非都市編定：丙種建築用地
+RPTNMLTKJHNFFAM76CC,嘉和段,98.00,都市：住

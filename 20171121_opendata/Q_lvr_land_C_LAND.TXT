@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPWNMLLLJIMFFBQ86CC,鎮安段,113.00,都市：住
+RPOOMLSLJIMFFBQ86CC,鎮安段,113.00,都市：住
+RPUNMLKMJIMFFBQ66CC,嘉朴段,114.37,都市：住

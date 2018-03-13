@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPQNMLNKJHNFFAI18DC,中山段二小段,35.31,都市：住
+RPWNMLPKJHNFFAI98DC,檜段三小段,.00,非都市： ; 非都市編定：
+RPXNMLPKJHNFFAI09DC,檜段三小段,.00,非都市： ; 非都市編定：

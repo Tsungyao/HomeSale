@@ -1,0 +1,6 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPQOMLPJJHNFFAN78CC,曾厝段,1370.00,都市：農
+RPQNMLNJJHNFFCN78DC,順興段,95.50,都市：住
+RPQNMLKKJHNFFCN48CC,龍山段,105.09,都市：其他
+RPQNMLMJJHNFFHN09CC,東寮段,59.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLPJJHNFFDN76DC,平和段,1138.29,非都市：山坡地保育區 ; 非都市編定：丙種建築用地

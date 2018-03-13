@@ -1,0 +1,65 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPRNMLSKKIMFFAX47CA,合界段,200.09,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPUNMLSKKIMFFAX77CA,山水東段,290.58,非都市：一般農業區 ; 非都市編定：農牧用地
+RPRNMLOKKIMFFAX07CA,北極段,74.59,都市：商
+RPRNMLOKKIMFFAX07CA,北極段,66.80,都市：商
+RPSNMLSKKIMFFAX57CA,赤崁中段,66.34,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLLLKIMFFAX76CA,鼎灣新段,8.20,非都市：一般農業區 ; 非都市編定：交通用地
+RPPNMLPKKIMFFAX96CA,湖西南段,263.80,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLLLKIMFFAX66CA,鼎灣新段,8.20,非都市：一般農業區 ; 非都市編定：交通用地
+RPPNMLSKKIMFFAX27CA,埕西段,179.96,都市：住
+RPPNMLSKKIMFFAX27CA,埕西段,32.48,都市：住
+RPUNMLMLKIMFFAX27CA,鼎灣新段,1.82,非都市：一般農業區 ; 非都市編定：交通用地
+RPUNMLMLKIMFFAX27CA,鼎灣新段,3.53,非都市：一般農業區 ; 非都市編定：農牧用地
+RPUNMLMLKIMFFAX27CA,鼎灣新段,.70,非都市：一般農業區 ; 非都市編定：農牧用地
+RPVNMLMLKIMFFAX37CA,鼎灣新段,1.82,非都市：一般農業區 ; 非都市編定：交通用地
+RPVNMLMLKIMFFAX37CA,鼎灣新段,3.53,非都市：一般農業區 ; 非都市編定：農牧用地
+RPVNMLMLKIMFFAX37CA,鼎灣新段,.70,非都市：一般農業區 ; 非都市編定：農牧用地
+RPTNMLMLKIMFFAX17CA,鼎灣新段,1.82,非都市：一般農業區 ; 非都市編定：交通用地
+RPTNMLMLKIMFFAX17CA,鼎灣新段,3.53,非都市：一般農業區 ; 非都市編定：農牧用地
+RPTNMLMLKIMFFAX17CA,鼎灣新段,.70,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPNMLMLKIMFFAX76CA,東石新段,67.23,非都市：一般農業區 ; 非都市編定：交通用地
+RPPNMLMLKIMFFAX76CA,東石新段,3.83,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPNMLQLKIMFFAX27DA,尖山南段,1384.68,非都市：一般農業區 ; 非都市編定：農牧用地
+RPSNMLLLKIMFFAX96CA,鼎灣新段,8.20,非都市：一般農業區 ; 非都市編定：交通用地
+RPTNMLLLKIMFFAX07CA,成功北段,1.95,非都市：鄉村區 ; 非都市編定：遊憩用地
+RPTNMLLLKIMFFAX07CA,成功北段,4.15,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLLLKIMFFAX07CA,成功北段,2.30,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPVNMLLLKIMFFAX27CA,東石新段,56.57,非都市：一般農業區 ; 非都市編定：交通用地
+RPVNMLLLKIMFFAX27CA,東石新段,29.72,非都市：一般農業區 ; 非都市編定：交通用地
+RPVNMLLLKIMFFAX27CA,東石新段,85.17,非都市：一般農業區 ; 非都市編定：交通用地
+RPTNMLTLKIMFFAX87CA,埕東段,31.15,都市：住
+RPPNMLPLKIMFFAX17DA,雙湖段,253.19,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPNMLPLKIMFFAX17DA,雙湖段,204.17,非都市：一般農業區 ; 非都市編定：農牧用地
+RPUNMLLLKIMFFAX17CA,東石新段,135.24,非都市：一般農業區 ; 非都市編定：農牧用地
+RPRNMLLLKIMFFAX86CA,成功北段,17.56,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPSNMLKLKIMFFAX86CA,五德西段,1571.18,非都市：一般農業區 ; 非都市編定：農牧用地
+RPQNMLKLKIMFFAX66CA,西澳段,109.21,都市：住
+RPPNMLKLKIMFFAX56CA,馬公段,38.00,都市：商
+RPPNMLOLKIMFFAX96CA,光榮段,206.77,都市：其他
+RPRNMLPLKIMFFAX27CA,五福段,281.77,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPOMLMLKIMFFAX86CA,赤馬一段,185.90,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPOMLMLKIMFFAX86CA,赤馬一段,280.99,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPOMLMLKIMFFAX86CA,赤馬一段,34.69,非都市：一般農業區 ; 非都市編定：交通用地
+RPOOMLMJJHNFFAX56DA,沙港北段,81.44,非都市：一般農業區 ; 非都市編定：農牧用地
+RPOOMLTJJHNFFAX17CA,鼎灣新段,3.25,非都市：一般農業區 ; 非都市編定：交通用地
+RPOOMLTJJHNFFAX17CA,鼎灣新段,7.99,非都市：一般農業區 ; 非都市編定：殯葬用地
+RPOOMLTJJHNFFAX17CA,東石新段,1.59,非都市：一般農業區 ; 非都市編定：交通用地
+RPOOMLTJJHNFFAX17CA,東石新段,6.34,非都市：一般農業區 ; 非都市編定：農牧用地
+RPOOMLTJJHNFFAX17CA,東石新段,5.89,非都市：一般農業區 ; 非都市編定：農牧用地
+RPOOMLTJJHNFFAX17CA,東石新段,1.83,非都市：一般農業區 ; 非都市編定：交通用地
+RPXNMLTJJHNFFAX97CA,東石新段,.52,非都市：一般農業區 ; 非都市編定：交通用地
+RPXNMLTJJHNFFAX97CA,東石新段,5.59,非都市：一般農業區 ; 非都市編定：交通用地
+RPTNMLPKJHNFFAX37DA,成功南段,178.01,非都市：一般農業區 ; 非都市編定：甲種建築用地
+RPTNMLPKJHNFFAX37DA,成功南段,9.84,非都市：一般農業區 ; 非都市編定：交通用地
+RPTNMLPKJHNFFAX37DA,成功南段,56.16,非都市：一般農業區 ; 非都市編定：交通用地
+RPRNMLPKJHNFFAX17DA,成功南段,178.17,非都市：一般農業區 ; 非都市編定：甲種建築用地
+RPRNMLPKJHNFFAX17DA,成功南段,9.84,非都市：一般農業區 ; 非都市編定：交通用地
+RPRNMLPKJHNFFAX17DA,成功南段,56.16,非都市：一般農業區 ; 非都市編定：交通用地
+RPWNMLLLKIMFFAX37CA,烏崁新段,2620.49,非都市：一般農業區 ; 非都市編定：農牧用地
+RPPNMLRLKIMFFAX27CA,林投北段,432.94,非都市：一般農業區 ; 非都市編定：甲種建築用地
+RPPNMLTLKIMFFAX47CA,文光段,25.35,都市：住
+RPPNMLTLKIMFFAX47CA,文光段,3.28,都市：住
+RPPNMLKKJHNFFAX98CA,五福段,841.98,非都市：一般農業區 ; 非都市編定：農牧用地
+RPRNMLMJJHNFFAX66CA,湖西南段,107.98,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLKKJHNFFAX56CA,許家段,315.02,非都市：一般農業區 ; 非都市編定：農牧用地

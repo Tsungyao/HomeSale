@@ -1,0 +1,6 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPTNMLMLKIMFFAG28CC,興東段,33.30,都市：商
+RPVNMLPLKIMFFAG78CC,東安段,.00,都市：住
+RPTNMLPLKIMFFAG58CC,新群一段,52.29,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPROMLPLKIMFFBG78EC,金六結三段,.00,都市：住
+RPXNMLRLKIMFFBG66CC,珍子滿力段擺厘小段,.00,都市：住

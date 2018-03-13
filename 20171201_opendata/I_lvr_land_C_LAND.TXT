@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPPNMLMJKIMFFAI97DC,檜段三小段,.00,非都市： ; 非都市編定：
+RPQNMLQJKIMFFAI58EC,湖內段,43.00,都市：住
+RPQNMLMJKIMFFAI08DC,檜段三小段,.00,非都市： ; 非都市編定：

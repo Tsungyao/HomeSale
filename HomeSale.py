@@ -5,9 +5,9 @@ import os
 
 strArrayCommunity = [
         ['鴻柏', '鴻向', '', '新竹縣竹北市自強北路331~360號'],
-        ['富宇', '雲極', 'A', '新竹縣竹北市勝利八街二段91~120號'],
-        ['富宇', '雲極', 'B', '新竹縣竹北市十興二街151~180號'],
-        ['富宇', '雲極', 'C', '新竹縣竹北市勝利八街二段121~150號'],
+        ['禾寅', '文鼎為美', 'A', '新竹縣竹北市勝利八街二段91~120號'],
+        ['禾寅', '文鼎為美', 'B', '新竹縣竹北市十興二街151~180號'],
+        ['富宇', '雲極', '', '新竹縣竹北市勝利八街二段121~150號'],
         ['仁發', '藏綠', 'A', '新竹縣竹北市十興五街61~90號'],
         ['仁發', '藏綠', 'B', '新竹縣竹北市十興五街91~120號']
         ]
@@ -128,6 +128,7 @@ def vHandleDeals(strFilePath, csvFile):
 
                 print("社區: " + strCommunity[1])
                 print("日期: " + Data.text)
+                print(TotalFloor.text)
 
                 #============ Determine the floor info ===========#
                 if TotalFloor.text:
@@ -173,6 +174,8 @@ def vHandleDeals(strFilePath, csvFile):
                     fExactPricePerPING = fExactPrice / fExactPING / 10000
                     strExactPricePerPING = str(fExactPricePerPING)
 
+                #if uTargetFloor < 6 or uTargetFloor > 12:
+                #    continue
                 structHouse = [strCommunity[0],
                                strCommunity[1],
                                strCommunity[2],

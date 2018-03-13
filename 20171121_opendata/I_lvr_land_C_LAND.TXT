@@ -1,0 +1,6 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPWNMLLLJIMFFAI68DC,遠東段,13.06,都市：住
+RPSNMLKMJIMFFAI18CC,竹圍子段,2765.00,都市：住
+RPRNMLTLJIMFFAI98DC,檜段三小段,.00,非都市： ; 非都市編定：
+RPWOMLSLJIMFFAI86DC,南門段五小段,138.80,都市：商
+RPSNMLTLJIMFFAI09DC,檜段三小段,.00,非都市： ; 非都市編定：
