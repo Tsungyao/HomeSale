@@ -1,0 +1,14 @@
+編號,屋齡,建物移轉面積(平方公尺),主要用途,主要建材,建築完成日期,總層數,建物分層
+The serial number,room age,building shifting area (square meter),the main use,main building materials,construction completes the date,total layer,building lamination
+RPXNMLPJKHNFFAP07CC,19,30.26,住家用,鋼筋混凝土造,87年10月30日,十層,
+RPXNMLPJKHNFFAP07CC,19,14.27,共同部份,鋼筋混凝土造,87年10月30日,十層,
+RPXNMLPJKHNFFAP07CC,19,8.87,共同部份,鋼筋混凝土造,87年10月30日,十層,
+RPSOMLTJJHNFFAP96CC,19,25.75,住家用,鋼筋混凝土造,87年10月30日,十層,
+RPSOMLTJJHNFFAP96CC,19,11.96,共同部份,鋼筋混凝土造,87年10月30日,十層,
+RPSOMLTJJHNFFAP96CC,19,7.54,共同部份,鋼筋混凝土造,87年10月30日,十層,
+RPWOMLTJJHNFFAP37CC,23,37.33,住家用,鋼筋混凝土造,83年11月15日,十二層,
+RPWOMLTJJHNFFAP37CC,23,5.55,共同部份,鋼筋混凝土造,83年11月15日,十二層,
+RPWOMLTJJHNFFAP37CC,23,6.76,共同部份,鋼筋混凝土造,83年11月15日,十二層,
+RPUOMLTJJHNFFAP17CC,19,27.12,住家用,鋼筋混凝土造,87年10月30日,十層,
+RPUOMLTJJHNFFAP17CC,19,11.57,共同部份,鋼筋混凝土造,87年10月30日,十層,
+RPUOMLTJJHNFFAP17CC,19,7.25,共同部份,鋼筋混凝土造,87年10月30日,十層,

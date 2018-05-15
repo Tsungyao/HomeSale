@@ -1,6 +1,0 @@
-編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
-RPRNMLLLKIMFFAT76DC,九如段,3414.00,非都市：特定農業區 ; 非都市編定：農牧用地
-RPUOMLRLKIMFFAT77DC,萬年段,81.00,都市：住
-RPWOMLRLKIMFFAT87CC,林內段,92.00,都市：住
-RPOOMLRLKIMFFAT07CC,清溪段,104.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
-RPQNMLMLKIMFFAT66CC,公興段,61.14,非都市：鄉村區 ; 非都市編定：乙種建築用地

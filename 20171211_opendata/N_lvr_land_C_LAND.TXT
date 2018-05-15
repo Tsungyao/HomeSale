@@ -1,6 +1,0 @@
-編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
-RPUOMLTKKIMFFAN27DC,西勢子段過溝子小段,80.00,都市：住
-RPVOMLTKKIMFFAN37DC,西勢子段過溝子小段,80.00,都市：住
-RPTNMLTKKIMFFDN27CC,和平段,11.25,都市：住
-RPQNMLTKKIMFFAN66CC,合興段,15.50,非都市：特定農業區 ; 非都市編定：甲種建築用地
-RPQNMLTKKIMFFAN66CC,合興段,45.00,非都市：特定農業區 ; 非都市編定：甲種建築用地

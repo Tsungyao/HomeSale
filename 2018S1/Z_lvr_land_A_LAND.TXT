@@ -1,0 +1,9 @@
+絪腹,跋琿竚,簿锣縩(キよそへ),ㄏノだ跋┪絪﹚
+The serial number,land sector position,land shifting area (square meter),the use zoning or compiles and checks
+RPPNMLMLJHNFFAZ96DA,狥ま﹁琿,30.73,常カㄤ
+RPPNMLSJKHNFFAZ37CA,ざ关琿,14.54,常カㄤ
+RPPNMLRJKIMFFAZ37DA,狥ま﹁琿,62.21,常カㄤ
+RPQNMLRJKIMFFAZ47DA,狥ま﹁琿,33.58,常カ坝
+RPQNMLRJKIMFFAZ47DA,狥ま﹁琿,32.24,常カ坝
+RPPNMLOJJHNFFAZ96DA,狥ま﹁琿,8.94,常カㄤ
+RPPNMLOJJHNFFAZ96DA,狥ま﹁琿,174.03,常カㄤ

@@ -1,4 +1,0 @@
-編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
-RPRNMLQJKIMFFBN56DC,和北段,200.00,都市：工
-RPOOMLQJKIMFFDN09CC,員林段,81.00,都市：商
-RPTNMLOJKIMFFDN66CC,和平段,7.60,都市：住

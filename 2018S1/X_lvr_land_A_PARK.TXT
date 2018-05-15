@@ -1,0 +1,5 @@
+編號,車位類別,車位價格,車位面積(平方公尺)
+Serial number,berth category,berth price,berth area (square meter)
+RPTNMLKLKIMFFAX96CA,坡道平面,0,
+RPQNMLRKJHNFFAX27DA,坡道機械,0,
+RPPNMLKMJHNFFAX56CA,坡道機械,0,

@@ -1,0 +1,35 @@
+編號,土地區段位置,土地移轉面積(平方公尺),使用分區或編定
+The serial number,land sector position,land shifting area (square meter),the use zoning or compiles and checks
+RPOOMLSLJIMFFBQ86CC,鎮安段,113.00,都市：住
+RPQNMLLJKIMFFCQ98DC,東榮段,63.00,都市：住
+RPWNMLLLJIMFFBQ86CC,鎮安段,113.00,都市：住
+RPUNMLKMJIMFFBQ66CC,嘉朴段,114.37,都市：住
+RPSNMLKLJIMFFBQ98CC,鎮安段,113.00,都市：住
+RPPNMLNJKIMFFBQ98DC,德安段,117.00,都市：住
+RPRNMLLMJHNFFDQ66CC,柳新段,64.30,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPQNMLPJJHNFFBQ09CC,頂東石段黎明小段,93.10,非都市：特定專用區 ; 非都市編定：甲種建築用地
+RPQNMLMKJHNFFEQ66DC,梅北段,458.00,都市：其他
+RPQNMLMKJHNFFEQ66DC,梅北段,390.00,都市：工
+RPQNMLMKJHNFFEQ66DC,梅北段,552.00,都市：其他
+RPQNMLMKJHNFFEQ66DC,梅北段,1411.00,都市：工
+RPQNMLMKJHNFFEQ66DC,梅北段,5334.00,都市：工
+RPQNMLMKJHNFFEQ66DC,梅北段,10785.00,都市：工
+RPQNMLMKJHNFFEQ66DC,梅北段,1550.00,都市：其他
+RPQNMLMKJHNFFEQ66DC,梅北段,2202.00,都市：工
+RPTNMLQLJHNFFDQ37DC,十一指厝段圳西小段,147.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPPNMLNJKIMFFDQ56DC,嘉保段,114.48,都市：住
+RPQNMLLMJHNFFCQ56DC,潭底段潭底小段,42.15,都市：住
+RPVNMLLMJHNFFCQ07DC,潭底段潭底小段,58.94,都市：住
+RPXNMLLMJHNFFCQ27DC,溝背段,94.00,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLLMJHNFFCQ66DC,潭底段潭底小段,46.58,都市：住
+RPOOMLLMJHNFFCQ09DC,菁埔段菁埔小段,185.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPTNMLLMJHNFFCQ86DC,潭底段潭底小段,58.57,都市：住
+RPQNMLLJKHNFFCQ98DC,潭底段潭底小段,100.00,都市：住
+RPPOMLLMJHNFFCQ56DC,潭底段潭底小段,98.00,都市：住
+RPSNMLLMJHNFFCQ76DC,潭底段潭底小段,27.09,都市：住
+RPSNMLLJKHNFFCQ56DC,新庄段,45.92,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPTNMLLJKHNFFCQ66DC,新庄段,45.92,非都市：鄉村區 ; 非都市編定：乙種建築用地
+RPRNMLLJKHNFFCQ09DC,林子前段三和小段,72.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPTNMLPJKHNFFCQ07DC,潭底段潭底小段,36.48,都市：住
+RPRNMLPJKHNFFCQ86DC,潭底段潭底小段,67.54,都市：住
+RPPNMLPJKHNFFBQ09CC,嘉朴段,7.60,都市：住
