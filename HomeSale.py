@@ -98,7 +98,7 @@ def vHandleDeals(strFilePath, csvFile):
     xmlTree = ET.parse(strFilePath)
     root = xmlTree.getroot()
     for Deal in root.findall("./買賣"):
-        for Community in Deal.findall("./土地區段位置或建物區門牌"):
+        for Community in Deal.findall("./土地區段位置或建物區門牌") or Deal.findall("./土地區段位置建物區段門牌"):
             for strCommunity in strArrayCommunity:
                 utf8Target = strCommunity[3]
 
