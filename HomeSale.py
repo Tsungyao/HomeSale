@@ -26,23 +26,25 @@ def vWriteTitle(csvFile):
     csvFile.write('停車坪,')
     csvFile.write('樓層,')
     csvFile.write('樓層等分,')
+    csvFile.write('車位價,')
     csvFile.write('總價,')
     csvFile.write('每坪單價\r')
 #############  vWriteTitle() end  #############
 
 ############# vWriteHouseData() start #############
 def vWriteHouseData(csvFile, structHouse):
-    csvFile.write(structHouse[0] + ',')  # strCommunity[0]      建商
-    csvFile.write(structHouse[1] + ',')  # strCommunity[1]      社區
-    csvFile.write(structHouse[2] + ',')  # strCommunity[2]      棟向
-    csvFile.write(structHouse[3] + ',')  # Data.text            日期
-    csvFile.write(structHouse[4] + ',')  # str(fTotalPING)      總坪
-    csvFile.write(structHouse[5] + ',')  # str(fExactPING)      室內實坪
-    csvFile.write(structHouse[6] + ',')  # str(fParkPING)       停車坪
-    csvFile.write(structHouse[7] + ',')  # uTargetFloor         樓層
-    csvFile.write(structHouse[8] + ',')  # uFloorPercent        樓層等分
-    csvFile.write(structHouse[9] + ',')  # fTotalPrice          總價
-    csvFile.write(structHouse[10] + '\r') # strExactPricePerPING 每坪單價
+    csvFile.write(structHouse[0] + ',')     # strCommunity[0]       建商
+    csvFile.write(structHouse[1] + ',')     # strCommunity[1]       社區
+    csvFile.write(structHouse[2] + ',')     # strCommunity[2]       棟向
+    csvFile.write(structHouse[3] + ',')     # Data.text             日期
+    csvFile.write(structHouse[4] + ',')     # str(fTotalPING)       總坪
+    csvFile.write(structHouse[5] + ',')     # str(fExactPING)       室內實坪
+    csvFile.write(structHouse[6] + ',')     # str(fParkPING)        停車坪
+    csvFile.write(structHouse[7] + ',')     # uTargetFloor          樓層
+    csvFile.write(structHouse[8] + ',')     # uFloorPercent         樓層等分
+    csvFile.write(structHouse[9] + ',')     # fParkPrice            車位價
+    csvFile.write(structHouse[10] + ',')    # fTotalPrice           總價
+    csvFile.write(structHouse[11] + '\r')   # strExactPricePerPING  每坪單價
 #############  vWriteHouseData() end  #############
 
 ############# uDenterminFloor() start #############
@@ -152,6 +154,11 @@ def vHandleDeals(strFilePath, csvFile):
                 fParkArea = float(ParkArea.text)
                 fParkPrice = float(ParkPrice.text)
 
+                if fParkPrice == 0:
+                    fParkPrice = 1122330;
+                    if fParkArea > 40:
+                        fParkPrice *= round(fParkArea / (10 * SQUARE_METER_PER_PING));
+
                 fExactArea = fTotalArea - fParkArea
                 fExactPrice = fTotalPrice - fParkPrice
 
@@ -185,6 +192,7 @@ def vHandleDeals(strFilePath, csvFile):
                                str(fParkPING),
                                str(uTargetFloor),
                                str(uFloorPercent),
+                               str(fParkPrice),
                                str(fTotalPrice),
                                strExactPricePerPING]
 
