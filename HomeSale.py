@@ -233,7 +233,7 @@ for strCommunity in strArrayCommunity:
 for dirPath, dirNames, fileNames in os.walk(WORKSPACE):
     for f in fileNames:
         #------------ guardian line ------------#
-        if not re.match('.*[xX][mM][lL]', f) or not re.match('[OJ].*', f):
+        if not re.match('.*[xX][mM][lL]', f) or not re.match('[OJoj].*', f): #O,新竹市 J,新竹縣
             continue
         #---------------------------------------#
         print(os.path.join(dirPath, f))
