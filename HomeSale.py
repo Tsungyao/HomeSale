@@ -23,7 +23,7 @@ def vWriteTitle(csvFile):
     csvFile.write('棟向,')
     csvFile.write('日期,')
     csvFile.write('總坪,')
-    csvFile.write('室內實坪,')
+    csvFile.write('室內坪,')
     csvFile.write('停車坪,')
     csvFile.write('樓層,')
     csvFile.write('樓層等分,')
@@ -39,7 +39,7 @@ def vWriteHouseData(csvFile, structHouse):
     csvFile.write(structHouse[2] + ',')     # strCommunity[2]       棟向
     csvFile.write(structHouse[3] + ',')     # Data.text             日期
     csvFile.write(structHouse[4] + ',')     # str(fTotalPING)       總坪
-    csvFile.write(structHouse[5] + ',')     # str(fExactPING)       室內實坪
+    csvFile.write(structHouse[5] + ',')     # str(fExactPING)       室內坪
     csvFile.write(structHouse[6] + ',')     # str(fParkPING)        停車坪
     csvFile.write(structHouse[7] + ',')     # uTargetFloor          樓層
     csvFile.write(structHouse[8] + ',')     # uFloorPercent         樓層等分
