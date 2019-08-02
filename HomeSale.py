@@ -156,9 +156,8 @@ def vHandleDeals(strFilePath, csvFile):
                 fParkPrice = float(ParkPrice.text)
 
                 if fParkPrice == 0:
-                    fParkPrice = 1122330;
-                    if fParkArea > 40:
-                        fParkPrice *= round(fParkArea / (10 * SQUARE_METER_PER_PING));
+                    fParkPrice = 1231230;
+                    fParkPrice *= round(fParkArea / (10 * SQUARE_METER_PER_PING));
 
                 fExactArea = fTotalArea - fParkArea
                 fExactPrice = fTotalPrice - fParkPrice
